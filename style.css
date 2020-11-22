@@ -1,0 +1,34 @@
+  
+h1{
+    font-size: 50px;
+    
+    text-align: center;
+
+    font-family:"Comic Sans MS", cursive, sans-serif ;}
+body{
+    background-image: url("./daniel-fazio-DzqeB43HfnE-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:#ff9a8c;
+}
+#main{
+    
+    
+    
+    margin: 200px;
+    padding: auto;
+    background-color: whitesmoke;
+    border: 1px black;
+    
+
+
+}
+.form{
+      
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    
+    
+}

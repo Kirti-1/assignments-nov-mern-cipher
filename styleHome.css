@@ -1,0 +1,70 @@
+body{
+    background-color:#ff9a8c;
+}
+#header{
+    background-color: #ea2c62 ;
+}
+#header    
+    a{
+        box-sizing: border-box;
+        width:25% ;
+        display : inline-block;
+        margin-left: -3px;
+        text-align: center;
+        padding: 12px;
+        
+    
+    }
+main{
+    padding: 10px;
+}
+.design{
+    background-color: white;
+    width: 60%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-bottom: 4px solid blue;
+   
+}
+#Hobbies
+{
+        box-sizing: border-box;
+        width:10%;
+        display : block;
+        margin-left: -1px;
+        text-align: left;
+        padding: 12px;
+}
+#Interest
+{
+    box-sizing: border-box;
+    width:10%;
+    display : block;
+    margin-left: -1px;
+    text-align: left;
+    padding: 12px;    
+
+}
+section{
+    padding: -12px;
+}
+#Professional
+article{
+    padding: 10px;
+    border-left : 1px solid black;
+
+}
+footer{
+    background-color:white;
+    width: 80%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-bottom: 4px solid blue;
+   
+}
+h2{
+    font-size: 30px;
+    
+    text-align: center;
+
+    font-family:"Comic Sans MS", cursive, sans-serif ;}
